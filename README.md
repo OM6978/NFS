@@ -307,17 +307,3 @@ till the socket is closed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p id="#contact"></p>
-
-## <span style="color:skyblue">Contact</span>
-
-Divyansh Pandey - divyansh.pandey@students.iiit.ac.in <br>
-Sanchit Jalan - sanchit.jalan@students.iiit.ac.in <br>
-Vinit Mehta - vinit.mehta@research.iiit.ac.in
-
-Project Link: [https://github.com/serc-courses/final-project-43](https://github.com/serc-courses/final-project-43)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<center>&copy; 2023 Team 43 with ❤️</center>
